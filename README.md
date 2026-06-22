@@ -25,39 +25,48 @@
 
 ## 🧑‍💻 About Me
 
-> 🧠 我是**软件工程专业在读本科生**，主攻**AI大模型开发**与**软件测试工程**方向，目前坚持学习 AI Agent 相关开发，
+> 🧠 *Software Engineering undergraduate focused on **LLM Application Development** and **Software Testing Engineering**,
+> actively learning AI Agent development and exploring AI applications in healthcare, education, and technology.*
+>
+> 我是**软件工程专业在读本科生**，主攻**AI大模型开发**与**软件测试工程**方向，目前坚持学习 AI Agent 相关开发，
 > 日常将实战代码片段整理至个人 Gist，持续探索 AI 在民生、教育、科技等场景的落地路径。
 
-- 🔭 目前专注于 **AI 大模型应用开发** 与 **多模态智能系统** 方向
-- 🌱 正在深入学习 **Python 后端框架** 与 **AI Agent多智能体开发**
-- 🔮 未来计划拓展**嵌入式开发**与**智能数字机器人**的落地研发方向
-- 🏆 多次获得专业奖学金，连续学年 **专业排名前 1%**
-- 🥉 服务外包创新创业大赛 **东部赛区三等奖** · 挑战杯 **三等奖**
-- 💡 熟练使用多款主流 AI 编程工具与大语言模型，具备从需求到交付的全流程实践经验
-- 📌 目标：成为从 0 到 1 定义产品的技术架构师
+- 🔭 *Focused on LLM App Development & Multimodal AI Systems* · 目前专注于 **AI 大模型应用开发** 与 **多模态智能系统** 方向
+- 🌱 *Learning Python Backend & Multi-Agent Systems* · 正在深入学习 **Python 后端框架** 与 **AI Agent 多智能体开发**
+- 🔮 *Exploring Embedded Systems & Intelligent Robotics* · 未来计划拓展**嵌入式开发**与**智能数字机器人**的落地研发方向
+- 🏆 *Top 1% in Major, Multiple Scholarships* · 多次获得专业奖学金，连续学年 **专业排名前 1%**
+- 🥉 *Regional 3rd Prize in Service Outsourcing Contest · Challenge Cup 3rd Prize* · 服务外包创新创业大赛 **东部赛区三等奖** · 挑战杯 **三等奖**
+- 💡 *Proficient in AI Dev Tools & LLMs, with full-cycle project delivery experience* · 熟练使用多款主流 AI 编程工具与大语言模型，具备从需求到交付的全流程实践经验
+- 📌 *Goal: Become a Technical Architect who defines products from 0 to 1* · 目标：成为从 0 到 1 定义产品的技术架构师
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 技术图标
 
-### Programming Languages
+### Programming Languages 编程语言
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript_5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Backend & Frameworks
+### Backend & Frameworks 后端框架
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI_0.111+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### AI / ML & Tools
+### AI / ML & Tools AI与工具
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-262626?style=for-the-badge&logo=langchain&logoColor=white)
+![Agent Workflow](https://img.shields.io/badge/Agent_Workflow-6C5CE7?style=for-the-badge&logo=robot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
@@ -93,44 +102,42 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects 项目经历
 
-### 🌟 美客美容全链路门店管理系统
+### 🌟 美客美容全链路门店管理系统 | Beauty Salon Management System
 > *校企合作项目 · 核心开发成员*
 
-- 📌 为线下美容院定制数字化经营系统，覆盖 **顾客、人员、收入、门店、预约** 5 类核心管理场景
-- 🔧 落地 **SpecCrew AI 驱动软件工程框架**，配合完成需求文档校验、功能逻辑梳理、测试用例生成，降低重复工作量 **25%**
-- 🚀 部署 **Harness CI/CD** 工具，实现开发→测试→部署自动化
-- 📈 预估助力门店预约处理效率提升 **80%**，营收数据统计准确率达 **95%**
+> 基于 Ruoyi + FastAPI + Vue3 + Redis 构建 SaaS 多租户美容门店管理平台，采用 Redis Stream 实现异步任务调度，多级缓存 + 防雪崩架构大幅降低 DB 查询压力，落地 SpecCrew AI 驱动开发流程与 Harness CI/CD 工具，覆盖 5 类核心管理场景，预估预约处理效率提升 80%。
+>
+> SaaS multi-tenant beauty salon platform built with Ruoyi + FastAPI + Vue3 + Redis, featuring async task scheduling via Redis Stream, multi-level caching architecture, and AI-driven development workflow with Harness CI/CD automation.
 
 ---
 
-### 🌟 数智心屿 — 多模态大模型驱动的 AI 数字人情感陪护系统
-> *第十七届服务外包大赛参赛项目 · 负责人*
+### 🌟 数智心屿 — AI 数字人情感陪护系统 | Emotional Companion Digital Human
+> *第十七届服务外包大赛 · 负责人 · 东部赛区三等奖*
 
-- 🧠 基于 **大语言模型 + 语音识别/合成** 技术，设计多模态交互架构，实现情绪识别与响应闭环
-- 💡 负责后端 API 开发、情感匹配算法优化，提交 **30+ 规范 Commit/PR**
-- 📊 完成 **100+ 用户需求调研** 与 **12 款竞品分析**，输出 30 页需求分析文档
-- 🏆 情绪识别准确率超 **85%**，平均响应延迟低于 **200ms**，覆盖 **8 类核心陪护场景**
-- 🥉 获第十七届大学生服务外包创新创业大赛 **东部赛区三等奖**
+> 基于 Qwen2.5-14B + FunASR + CosyVoice + MediaPipe + Live2D 构建“感知-认知-干预”主动闭环系统，采用多模态融合情感引擎与心理学知识库 RAG，实现语音识别→情感对话→数字人实时驱动的完整链路，情绪识别准确率超 85%，响应延迟低于 200ms，覆盖 8 类核心陪护场景。
+>
+> Multimodal emotional companion digital human powered by Qwen2.5-14B + FunASR + CosyVoice + MediaPipe + Live2D, with psychology RAG and real-time lip-sync, achieving 85%+ emotion recognition accuracy with <200ms latency.
 
 ---
 
-### 🌟 数治慧民 — 面向智慧校园的 AI 数字人智能服务平台
-> *2026年"挑战杯"参赛项目 · 核心成员*
+### 🌟 数治慧民 — 智慧校园 AI 数字人服务平台 | Smart Campus AI Platform
+> *2026年"挑战杯"参赛项目 · 核心成员 · 三等奖*
 
-- 🏫 依托 AI 数字人技术打造智慧校园服务平台，覆盖 **政务咨询、生活服务、学业指导** 三大场景
-- 📋 开展 **200+ 师生需求调研**，参与撰写 15 页项目需求文档
-- 🔍 完成 AI 数字人交互流程设计与校园场景适配方案落地测试
-- 🏅 获 2026 年"挑战杯"大学生创业计划竞赛 **三等奖**
+> 基于 LiveTalking + LangGraph ReAct Agent + FAISS RAG 三大模块构建智慧校园 AI 数字人平台，支持 WebRTC 实时音视频交互、多模型智能问答与专有知识库检索，覆盖政务咨询、生活服务、学业指导三大场景。
+>
+> Smart campus AI digital human platform built with LiveTalking + LangGraph ReAct Agent + FAISS RAG, supporting real-time WebRTC interaction, multi-model QA and domain knowledge retrieval across 3 scenarios.
+
 
 ---
 
-### 🌟 管理端知识库模块开发
-> *企业实习项目 · 开发成员 · 进行中*
+### 🌟 AI英语口语陪练 | AI Spoken English Trainer
+> *XEngineer 新工科竟赛参赛项目 · 负责人*
 
-- 📚 基于大语言模型实现知识库 **智能检索、内容自动分类、问答生成** 等核心功能
-- 📝 已完成需求文档输出与核心功能原型开发，预计 2026 年 9 月完成内部上线测试
+> 基于大模型 + 流式 ASR 构建 AI 英语口语陪练平台，支持面试/点餐/会议三类场景实时语音对话、发音评测、语法纠错与课后量化报告，采用 LangGraph 双 Agent 工作流。
+>
+> AI-powered spoken English training platform with real-time voice interaction, pronunciation scoring, grammar correction and quantified learning reports across 3 scenarios.
 
 ---
 
