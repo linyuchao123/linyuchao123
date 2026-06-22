@@ -51,10 +51,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript_5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Backend & Frameworks 后端框架
+### Backend Frameworks 后端框架
 
 ![FastAPI](https://img.shields.io/badge/FastAPI_0.111+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django_4.2+-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Frontend Frameworks 前端框架
+
 ![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
@@ -90,11 +94,11 @@
 > 深度使用多款大语言模型，具备丰富的 LLM 应用实践经验
 
 <p align="center">
-  <img src="https://img.shields.io/badge/豆包_Doubao-00D4AA?style=for-the-badge&logo=bytedance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doubao_豆包-00D4AA?style=for-the-badge&logo=bytedance&logoColor=white" />
   <img src="https://img.shields.io/badge/Kimi-6366F1?style=for-the-badge&logo=moonshot&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/千问_Qwen-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" />
-  <img src="https://img.shields.io/badge/智谱_GLM-4338CA?style=for-the-badge&logo=zhipu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen_千问-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLM_智谱-4338CA?style=for-the-badge&logo=zhipu&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -104,40 +108,39 @@
 
 ## 📂 Featured Projects 项目经历
 
-### 🌟 美客美容全链路门店管理系统 | Beauty Salon Management System
+### 🌟 Beauty Salon Management System | 美客美容全链路门店管理系统
 > *校企合作项目 · 核心开发成员*
 
-> 基于 Ruoyi + FastAPI + Vue3 + Redis 构建 SaaS 多租户美容门店管理平台，采用 Redis Stream 实现异步任务调度，多级缓存 + 防雪崩架构大幅降低 DB 查询压力，落地 SpecCrew AI 驱动开发流程与 Harness CI/CD 工具，覆盖 5 类核心管理场景，预估预约处理效率提升 80%。
->
 > SaaS multi-tenant beauty salon platform built with Ruoyi + FastAPI + Vue3 + Redis, featuring async task scheduling via Redis Stream, multi-level caching architecture, and AI-driven development workflow with Harness CI/CD automation.
+>
+> 基于 Ruoyi + FastAPI + Vue3 + Redis 构建 SaaS 多租户美容门店管理平台，采用 Redis Stream 实现异步任务调度，多级缓存 + 防雪崩架构大幅降低 DB 查询压力，落地 SpecCrew AI 驱动开发流程与 Harness CI/CD 工具，覆盖 5 类核心管理场景，预估预约处理效率提升 80%。
 
 ---
 
-### 🌟 数智心屿 — AI 数字人情感陪护系统 | Emotional Companion Digital Human
+### 🌟 Emotional Companion Digital Human | 数智心屿 — AI 数字人情感陪护系统
 > *第十七届服务外包大赛 · 负责人 · 东部赛区三等奖*
 
-> 基于 Qwen2.5-14B + FunASR + CosyVoice + MediaPipe + Live2D 构建“感知-认知-干预”主动闭环系统，采用多模态融合情感引擎与心理学知识库 RAG，实现语音识别→情感对话→数字人实时驱动的完整链路，情绪识别准确率超 85%，响应延迟低于 200ms，覆盖 8 类核心陪护场景。
->
 > Multimodal emotional companion digital human powered by Qwen2.5-14B + FunASR + CosyVoice + MediaPipe + Live2D, with psychology RAG and real-time lip-sync, achieving 85%+ emotion recognition accuracy with <200ms latency.
-
----
-
-### 🌟 数治慧民 — 智慧校园 AI 数字人服务平台 | Smart Campus AI Platform
-> *2026年"挑战杯"参赛项目 · 核心成员 · 三等奖*
-
-> 基于 LiveTalking + LangGraph ReAct Agent + FAISS RAG 三大模块构建智慧校园 AI 数字人平台，支持 WebRTC 实时音视频交互、多模型智能问答与专有知识库检索，覆盖政务咨询、生活服务、学业指导三大场景。
 >
-> Smart campus AI digital human platform built with LiveTalking + LangGraph ReAct Agent + FAISS RAG, supporting real-time WebRTC interaction, multi-model QA and domain knowledge retrieval across 3 scenarios.
-
+> 基于 Qwen2.5-14B + FunASR + CosyVoice + MediaPipe + Live2D 构建“感知-认知-干预”主动闭环系统，采用多模态融合情感引擎与心理学知识库 RAG，实现语音识别→情感对话→数字人实时驱动的完整链路，情绪识别准确率超 85%，响应延迟低于 200ms，覆盖 8 类核心陪护场景。
 
 ---
 
-### 🌟 AI英语口语陪练 | AI Spoken English Trainer
+### 🌟 Smart Campus AI Platform | 数治慧民 — 智慧校园 AI 数字人服务平台
+> *2026年“挑战杯”参赛项目 · 核心成员 · 三等奖*
+
+> Smart campus AI digital human platform built with LiveTalking + LangGraph ReAct Agent + FAISS RAG, supporting real-time WebRTC interaction, multi-model QA and domain knowledge retrieval across 3 scenarios.
+>
+> 基于 LiveTalking + LangGraph ReAct Agent + FAISS RAG 三大模块构建智慧校园 AI 数字人平台，支持 WebRTC 实时音视频交互、多模型智能问答与专有知识库检索，覆盖政务咨询、生活服务、学业指导三大场景。
+
+---
+
+### 🌟 AI Spoken English Trainer | AI英语口语陪练
 > *XEngineer 新工科竟赛参赛项目 · 负责人*
 
-> 基于大模型 + 流式 ASR 构建 AI 英语口语陪练平台，支持面试/点餐/会议三类场景实时语音对话、发音评测、语法纠错与课后量化报告，采用 LangGraph 双 Agent 工作流。
+> AI-powered spoken English training platform with real-time voice interaction, pronunciation scoring, grammar correction and quantified learning reports across 3 scenarios, using LangGraph dual-Agent workflow.
 >
-> AI-powered spoken English training platform with real-time voice interaction, pronunciation scoring, grammar correction and quantified learning reports across 3 scenarios.
+> 基于大模型 + 流式 ASR 构建 AI 英语口语陪练平台，支持面试/点餐/会议三类场景实时语音对话、发音评测、语法纠错与课后量化报告，采用 LangGraph 双 Agent 工作流。
 
 ---
 
@@ -193,16 +196,16 @@
 
 <br />
 
-## 🎯 Skills & Competencies
+## 🎯 Skills & Competencies 技能矩阵
 
-| Category | Skills |
+| Category 类别 | Skills 技能 |
 |:--------:|:------|
-| 💻 **编程语言** | Python (FastAPI/Flask)、C、Go (学习中) |
-| 🤖 **AI 工程** | 提示词工程、多模态大模型应用、知识库搭建、智能检索系统开发 |
-| 🏗️ **工程工具** | Git (分支管理/PR规范)、Docker、CI/CD、Markdown |
-| 🛠️ **开发工具** | Cursor、Trae、VS Code、Qoder (高熟练度) |
-| 🧩 **软技能** | 需求拆解、架构设计、技术文档撰写、跨团队协作 |
-| 🌐 **语言能力** | CET-4、CET-6、普通话二级乙等 |
+| 💻 **Languages 编程语言** | `Python` (FastAPI / Flask / Django)、`C`、`Go` (Learning)、`TypeScript` |
+| 🤖 **AI Engineering AI工程** | Prompt Engineering、Multimodal LLM Apps、RAG Knowledge Base、Agent Workflow、LangGraph、ASR/TTS |
+| 🏗️ **Infra & DevOps 工程工具** | `Git` (Branch / PR)、`Docker`、`CI/CD` (Harness)、`Redis`、`FAISS`、`MySQL` |
+| 🛠️ **IDE & AI Tools 开发工具** | Cursor、Trae、VS Code、Qoder、Codex、Claude Code |
+| 🧩 **Soft Skills 软技能** | Requirements Analysis、Architecture Design、Technical Writing、Cross-team Collaboration |
+| 🌐 **Certificates 语言能力** | CET-4、CET-6、普通话二级乙等、全国计算机二级 |
 
 ---
 
