@@ -45,32 +45,32 @@
 
 ### Programming Languages 编程语言
 
-![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript_5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ### Backend Frameworks 后端框架
 
-![FastAPI](https://img.shields.io/badge/FastAPI_0.111+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django_4.2+-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI_0.111+-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django_4.2+-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### Frontend Frameworks 前端框架
 
-![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ### AI / ML & Tools AI与工具
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-262626?style=for-the-badge&logo=langchain&logoColor=white)
-![Agent Workflow](https://img.shields.io/badge/Agent_Workflow-6C5CE7?style=for-the-badge&logo=robot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-262626?style=flat-square&logo=langchain&logoColor=white)
+![Agent Workflow](https://img.shields.io/badge/Agent_Workflow-6C5CE7?style=flat-square&logo=robot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Npm](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
@@ -79,12 +79,12 @@
 > 日常开发中高频使用的 AI 编程工具
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trae-000000?style=for-the-badge&logo=trae&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qoder-6C5CE7?style=for-the-badge&logo=qoder&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trae-000000?style=flat-square&logo=trae&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qoder-6C5CE7?style=flat-square&logo=qoder&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 ---
@@ -94,14 +94,14 @@
 > 深度使用多款大语言模型，具备丰富的 LLM 应用实践经验
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Doubao_豆包-00D4AA?style=for-the-badge&logo=bytedance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kimi-6366F1?style=for-the-badge&logo=moonshot&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen_千问-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" />
-  <img src="https://img.shields.io/badge/GLM_智谱-4338CA?style=for-the-badge&logo=zhipu&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doubao_豆包-00D4AA?style=flat-square&logo=bytedance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-6366F1?style=flat-square&logo=moonshot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen_千问-FF6A00?style=flat-square&logo=alibaba&logoColor=white" />
+  <img src="https://img.shields.io/badge/Glm_智谱-4338CA?style=flat-square&logo=zhipu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chatgpt-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 ---
@@ -166,31 +166,31 @@
 
 <div align="center">
   <a href="mailto:LYC20260327@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-LYC20260327@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-LYC20260327@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="mailto:476638303@qq.com">
-    <img src="https://img.shields.io/badge/QQ邮箱-476638303@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qq邮箱-476638303@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:18896876115">
-    <img src="https://img.shields.io/badge/电话-18896876115-25D366?style=for-the-badge&logo=wechat&logoColor=white" />
+    <img src="https://img.shields.io/badge/电话-18896876115-25D366?style=flat-square&logo=wechat&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://zhihu.com/people/zhirhcnz">
-    <img src="https://img.shields.io/badge/知乎-zhirhcnz-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
+    <img src="https://img.shields.io/badge/知乎-zhirhcnz-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
   </a>
   <a href="https://blog.csdn.net/Crush__lyc">
-    <img src="https://img.shields.io/badge/CSDN-Crush__lyc-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Csdn-Crush__lyc-FC5531?style=flat-square&logo=csdn&logoColor=white" />
   </a>
   <a href="https://www.nowcoder.com/users/32811323">
-    <img src="https://img.shields.io/badge/牛客网-32811323-00B38A?style=for-the-badge&logo=nowcoder&logoColor=white" />
+    <img src="https://img.shields.io/badge/牛客网-32811323-00B38A?style=flat-square&logo=nowcoder&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/linyuchao123">
-    <img src="https://img.shields.io/badge/GitHub-linyuchao123-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-linyuchao123-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </div>
 
