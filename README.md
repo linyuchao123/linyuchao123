@@ -131,14 +131,12 @@
 
 ## 📂 Featured Projects 项目经历
 
-### 🌟 [迹中局 · City as a Story](https://github.com/linyuchao123/jizhongju-web)
+### 🌟 City as a Story | 迹中局 — 文化旅行互动探索平台
 > *2026 年 AI 青年国际黑客松 · 北京线下 3 天开发 · 文化赛道*
 
-以游戏的方式打开文化旅行：沿真实景点寻找线索，与 NPC 同行，在观察、解谜与记录中读懂一座园林。首发场景为北京颐和园，提供插画叙事与实景探索两套体验。
-
-基于 **React + JavaScript + Vite** 构建响应式 Web 作品，结合分支对话、故事档案与旅程图鉴，并在黑客松后持续迭代。
-
-[查看源码 ↗](https://github.com/linyuchao123/jizhongju-web) · [在线体验 ↗](https://jizhongju.xiaolinyx.me)
+> Interactive cultural travel platform built with React + JavaScript + Vite, featuring NPC-guided exploration, branching dialogues, story archives and journey collections. Set in Beijing’s Summer Palace, it offers illustrated storytelling and real-world exploration experiences, with continued iteration after the three-day on-site hackathon.
+>
+> 基于 React + JavaScript + Vite 构建文化旅行互动探索平台，以北京颐和园为首发场景，结合 NPC 同行、分支对话、故事档案与旅程图鉴，提供插画叙事与实景探索两套体验，实现观察、解谜与记录相结合的响应式 Web 交互，并在北京线下三天黑客松开发后持续迭代。[查看源码 ↗](https://github.com/linyuchao123/jizhongju-web) · [在线体验 ↗](https://jizhongju.xiaolinyx.me)
 
 <p align="center"><img src="assets/section-divider.svg" width="100%" alt="" /></p>
 
